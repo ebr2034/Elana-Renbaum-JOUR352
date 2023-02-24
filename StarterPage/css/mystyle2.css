@@ -1,0 +1,50 @@
+.deadred{
+	color:#ff1c14;
+}
+.deadblue{
+	color:#0c2999;
+}
+
+body{
+	color:#171515;
+	background-color: #fde93d80;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:1.5 em;
+}
+.deadgreen{
+	color:#008f42;
+}
+
+.deadpink{
+color: #ed79a2;
+}
+
+.deadyellow{
+color: #fde93d;
+}
+
+.deadnavy{
+color:#001f62;
+}
+
+.deadorange{
+color: #d86528;
+
+}
+
+.headerbar{
+	width:100%;
+	background-color:white;
+	padding-left:20px;
+	text-align:center;
+	font-size:1.5em;
+	font-family: 'Great Vibes', cursive;
+	color: #ff1c14;
+}
+.highlightbox{
+	width:50%;
+	padding-left: 20px;
+	text-align:center;
+	background-color:#ed79a280;
+}
+
