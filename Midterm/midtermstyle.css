@@ -1,0 +1,40 @@
+h1 {
+	color:#E50914;
+	text-align: center;
+}
+
+h3{
+	color:#66aa33;
+	text-align: center;
+}
+
+.netflixred{
+	Color: #E50914;
+}
+
+.hulugreen{
+	color:#66aa33;
+	color: rgb(102,170,51);
+}
+
+body{
+	background-color: #f4f4f4;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin:0px 20px 0px 20px;
+}
+
+blockquote {
+	color:#E50914;
+	font-size:25px;
+	background-color:rgb(102,170,51, 0.2);
+
+}
+
+figcaption{
+	font-size:10px;
+}
+
+.centerimage{
+	text-align:center;
+
+}
